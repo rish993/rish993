@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rishit_singh
 - 👀 I’m interested in Astrophysics, Python, Competitive Programming, Theoretical Physics
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C
+- My codewars profile- https://www.codewars.com/users/Prog117
 - 📫 How to reach me -email- vipra.hraj@gmail.com
 
 <!---
